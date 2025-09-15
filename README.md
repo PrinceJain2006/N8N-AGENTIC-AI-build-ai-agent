@@ -6,13 +6,6 @@
 ## About n8n#
 - n8n (pronounced n-eight-n) helps you to connect any app with an API with any other, and manipulate its data with little or no code.
 
-## Key Capabilities
-- Code When You Need It: Write JavaScript/Python, add npm packages, or use the visual interface
-- AI-Native Platform: Build AI agent workflows based on LangChain with your own data and models
-- Full Control: Self-host with our fair-code license or use our cloud offering
-- Enterprise-Ready: Advanced permissions, SSO, and air-gapped deployments
-- Active Community: 400+ integrations and 900+ ready-to-use templates
-
 ## Quick Start
 - Try n8n instantly with npx (requires Node.js):
   npx n8n
