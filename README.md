@@ -1,5 +1,15 @@
 # N8N-AGENTIC-AI-build-ai-agent
 
+⚡ Why it matters in n8n
+
+When you use n8n Agents:
+- The Agent Node is the wizard.
+- The Tools are the spells.
+- The Memory Node is the wizard’s grimoire (keeps past knowledge).
+- The Triggers are when someone calls upon the wizard for help.
+
+And you (the builder) are the Archmage, designing the spellbook.
+So calling Advanced AI a “Digital Wizard” is a metaphor:
 # n8n - Secure Workflow Automation for Technical Teams
 - n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments.
 
